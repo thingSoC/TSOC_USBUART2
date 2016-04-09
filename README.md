@@ -1,13 +1,16 @@
 # TSOC_USBUART2
 
-**TSOC_USBUART2** is a USB to UART Base Board **thingSoC Reference Design.** 
+**TSOC_USBUART2** is a DUal USB to UART Base Board **thingSoC Reference Design.** 
 
 **thingSoC Reference Designs** are example thingSoC implementations that implement
 various reference and testing circuits for demonstrating the use of the thingSoC libraries.
 These reference designs can serve as starting templates for user designs.
 
-**TSOC_USBUART2** includes a single channel USB to Serial(UART) interface, 
-and status LED's, as well as an "FTDI" pinout compatible connector.
+**TSOC_USBUART2** includes a two channel USB to Serial(UART) interface, 
+and status LED's, as well as a thingSoC programming connector,
+that is backward compatible with the six (6) pin "FTDI" pinout,
+but also includes two(2) extra pins (RTS & DEBUG) for extended device
+programming, such as "NodeMCO types" which use RTS as a programming enable.
 
 
 [![thingSoC TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2/blob/master/TSOC_USBUART2/images/TSOC_USBUART2_top.png?raw=true) 
