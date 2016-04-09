@@ -1,0 +1,22 @@
+Partlist exported from /home/moxon/github/TSOC-USBUART2/TSOC-USBUART2/TSOC_USBUART2.sch at 4/9/16 11:58 AM
+Qty Value              Device             Package          Parts                  Description
+1   RED                LED0603            LED-0603         SUSPEND                LEDs                                                            
+1   GRN                LED0603            LED-0603         POWER                  LEDs                                                                 
+1   BLUE               LED0603            LED-0603         TXD                    LEDs                          
+1   YELLOW             LED0603            LED-0603         RXD                    LEDs
+3   0.1uF              CAP-0603           EIA-0603         C5, C7, C8             Ceramic Capacitor SMD
+1   1.0uF              CAP-0603           EIA-0603         C6                     Ceramic Capacitor SMD
+2   10K                RESISTOR-0603      EIA-0603         R15, R17                                   
+1   1A                 FUSE               EIA-0603         F1                     Resettable PPTC Fuse - 0603 Footptint
+4   1K                 RESISTOR-0603      EIA-0603         R4, R10, R11, R12                                          
+1   1M                 RESISTOR-0603      EIA-0603         R1                                                        
+2   22                 RESISTOR-0603      EIA-0603         R2, R3                                                   
+1   22K                RESISTOR-0603      EIA-0603         R13                                                     
+2   22uF               CAP-1206           EIA-1206         C2, C3                 Ceramic Capacitor SMD           
+2   470pF              CAP-0603           EIA-0603         C1, C4                 Ceramic Capacitor SMD          
+1   CY7C65215-32-PROTO CY7C65215-32-PROTO QFN32-PROTO      U2                     Cypress EZ-USB ® CY7C65215-32QFN DUAL CHANNEL USB TO UART/SPI/IC Bridge
+1   M08                M08                1X08-SMD-FEMALE  P1                                                                                        
+1   M08PTH             M08PTH             1X08             P1A                                                                                      
+1   MIC5219 3.3V       V_REG_MIC52193.3V  SOT23-5          U1                     V_REG MIC5219                                                    
+1   SP1001-02JTG       SP1001-02JTG       SC70-3           ESD                    Littelfuse SP1001-02JTG TVS Diode Array 8pf 15kV 
+1   USB_AB             USB_AB             USB-AB-MICRO-SMD USB                    USB AB connector 
