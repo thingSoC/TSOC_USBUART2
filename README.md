@@ -1,6 +1,6 @@
 # TSOC_USBUART2
 
-**TSOC_USBUART2** is a DUal USB to UART Base Board **thingSoC Reference Design.** 
+**TSOC_USBUART2** is a Dual USB to UART Base Board **thingSoC Reference Design.** 
 
 **thingSoC Reference Designs** are example thingSoC implementations that implement
 various reference and testing circuits for demonstrating the use of the thingSoC libraries.
