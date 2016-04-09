@@ -10,7 +10,7 @@ These reference designs can serve as starting templates for user designs.
 and status LED's, as well as an "FTDI" pinout compatible connector.
 
 
-[![thingSoC TSOC_USBUART2](http://thingsoc.github.io/img/projects/TSOC_USBUART2/TSOC_USBUART2_top.png?raw=true) 
+[![thingSoC TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2/blob/master/TSOC_USBUART2/images/TSOC_USBUART2_top.png?raw=true) 
 *TSOC_USBUART2*](https://github.com/thingSoC/TSOC_USBUART2)
 
 ---------------------------------------
@@ -18,7 +18,7 @@ and status LED's, as well as an "FTDI" pinout compatible connector.
 ## TSOC_USBUART2 Status <a name="TSOC_USBUART2_status"/>
 
 **03/18/2016:** 
-Revision 1.1 - New Layout including Li-Po charger and PA thingSoC Standard
+Revision 1.0 - New Layout with Dual USB to UART device
 
 
 ---------------------------------------
