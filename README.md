@@ -10,7 +10,7 @@ These reference designs can serve as starting templates for user designs.
 and status LED's, as well as a thingSoC programming connector,
 that is backward compatible with the six (6) pin "FTDI" pinout,
 but also includes two(2) extra pins (RTS & DEBUG) for extended device
-programming, such as "NodeMCO types" which use RTS as a programming enable.
+programming, such as "NodeMCU types" which use RTS as a programming enable.
 
 
 [![thingSoC TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2/blob/master/TSOC_USBUART2/images/TSOC_USBUART2_top.png?raw=true) 
