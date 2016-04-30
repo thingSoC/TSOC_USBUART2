@@ -22,8 +22,8 @@ programming, such as "NodeMCU types" which use RTS as a programming enable.
 
 **03/18/2016:** 
 Revision 1.0 - New Layout with Dual USB to UART device
-Revision 2.0 - New PCB Outline, update to thingSoC Revision 2.0 
 
+Revision 2.0 - New PCB Outline, update to thingSoC Revision 2.0 
 
 ---------------------------------------
 
