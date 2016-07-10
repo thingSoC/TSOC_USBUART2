@@ -34,7 +34,7 @@ Revision 4.0 - New DPC connector, fix spacing.
 
 ## TSOC_USBUART2 Documentation Index <a name="TSOC_USBUART2_documentation_index"/>
 
-[TSOC_USBUART2 Project](ttps://github.com/thingSoC/TSOC_USBUART2/)
+[TSOC_USBUART2 Project](https://github.com/thingSoC/TSOC_USBUART2/)
 
 [TSOC_USBUART2 Hardware](https://github.com/thingSoC/TSOC_USBUART2/tree/master/TSOC_USBUART2/hardware)
 
