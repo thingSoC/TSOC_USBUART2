@@ -1,16 +1,19 @@
 # TSOC_USBUART2
 
-**TSOC_USBUART2** is a Dual USB to UART Base Board **thingSoC Reference Design.** 
+**TSOC_USBUART2** is a two channel USB to Serial(UART) interface, 
+with status LED's, and a thingSoC Digital Programming Connector (DPC).
 
+The thingSoC Digital Programming Connector (DPC) is backward compatible with 
+the industry standard six (6) pin "FTDI" pinout USB to Serial Adapter pinout.
+However, the thingSoC Digital Programming Connector (DPC) includes 
+two(2) extra pins (RTS & DEBUG) for extended device programming, 
+such as "NodeMCU types" which use the RTS signal as a programming enable,
+and the DTR signal as a programming Reset.
+
+**TSOC_USBUART2** is a Dual USB to UART Base Board **thingSoC Reference Design.** 
 **thingSoC Reference Designs** are example thingSoC implementations that implement
 various reference and testing circuits for demonstrating the use of the thingSoC libraries.
 These reference designs can serve as starting templates for user designs.
-
-**TSOC_USBUART2** includes a two channel USB to Serial(UART) interface, 
-and status LED's, as well as a thingSoC programming connector,
-that is backward compatible with the six (6) pin "FTDI" pinout,
-but also includes two(2) extra pins (RTS & DEBUG) for extended device
-programming, such as "NodeMCU types" which use RTS as a programming enable.
 
 
 [![thingSoC TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2/blob/master/TSOC_USBUART2/images/TSOC_USBUART2_top.png?raw=true) 
