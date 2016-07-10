@@ -7,7 +7,7 @@ The thingSoC Digital Programming Connector (DPC) is backward compatible with
 the industry standard six (6) pin "FTDI" pinout USB to Serial Adapter pinout.
 However, the thingSoC Digital Programming Connector (DPC) includes 
 two(2) extra pins (RTS & DEBUG) for extended device programming, 
-such as "NodeMCU types" which use the RTS signal as a programming enable,
+such as "NodeMCU types" which use the RTS signal as a programming Enable,
 and the DTR signal as a programming Reset.
 
 
