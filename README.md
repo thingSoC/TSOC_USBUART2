@@ -24,10 +24,10 @@ These reference designs can serve as starting templates for user designs.
 
 ## TSOC_USBUART2 Status <a name="TSOC_USBUART2_status"/>
 
-**03/18/2016:** 
-Revision 1.0 - New Layout with Dual USB to UART device
 
+Revision 1.0 - New Layout with Dual USB to UART device
 Revision 2.0 - New PCB Outline, update to thingSoC Revision 2.0 
+Revision 4.0 - New DPC connector, fix spacing.
 
 ---------------------------------------
 
