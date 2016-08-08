@@ -33,9 +33,24 @@ Programming a TSOC_NeoLED Board](https://github.com/thingSoC/TSOC_USBUART2)
 Programming a TSOC_RS485 Board](https://github.com/thingSoC/TSOC_USBUART2)
 
 ---------------------------------------
+## Use it as a Protocol Adapter
+
+[![thingSoC TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2/blob/master/TSOC_USBUART2/images/product/TSOC_USBUART2.png?raw=true) 
+USB to WiFi Adapter](https://github.com/thingSoC/TSOC_USBUART2)
+
+[![thingSoC TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2/blob/master/TSOC_USBUART2/images/product/TSOC_USBUART2_adapt_rs485.png?raw=true) 
+USB to RS-485 Adapter](https://github.com/thingSoC/TSOC_USBUART2)
+
+[![thingSoC TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2/blob/master/TSOC_USBUART2/images/product/TSOC_USBUART2_adapt_rs232.png?raw=true) 
+USB to RS-232 Adapter](https://github.com/thingSoC/TSOC_USBUART2)
+
+---------------------------------------
 ## TSOC_USBUART2 Model Images
 
 [![thingSoC TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2/blob/master/TSOC_USBUART2/images/TSOC_USBUART2_top.png?raw=true) 
+TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2)
+
+[![thingSoC TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2/blob/master/TSOC_USBUART2/images/TSOC_USBUART2_bot.png?raw=true) 
 TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2)
 
 ---------------------------------------
