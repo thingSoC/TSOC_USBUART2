@@ -11,16 +11,15 @@ Port1 can be used to program a target microprocessor, at the same time Port2 is 
 
 It's like having two (2) FTDI adapters in One!
 
+[![thingSoC TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2/blob/master/TSOC_USBUART2/images/product/TSOC_USBUART2.png?raw=true) 
+TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2)
+
 The thingSoC Digital Programming Connector (DPC) is backward compatible with 
 the industry standard six (6) pin "FTDI" pinout USB to Serial Adapter pinout.
 However, the thingSoC Digital Programming Connector (DPC) includes 
 two(2) extra pins (RTS & DEBUG) for extended device programming, 
 such as "NodeMCU types" which use the RTS signal as a programming Enable,
 and the DTR signal as a programming Reset.
-
-
-[![thingSoC TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2/blob/master/TSOC_USBUART2/images/product/TSOC_USBUART2.png?raw=true) 
-TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2)
 
 ---------------------------------------
 ## Use it as a Programming Dongle
