@@ -4,8 +4,9 @@ The thingSoC USBUART2 Base board incorporates a Cypress CY7C65215 Dual Channel U
 
 
 The thingSoC USBUART2 Base board has two USB bridge channels, which can be programmed to be either UART, I2C, SPI, JTAG, or Capacitance Sensing (buttons/sliders) Human Input devices.
+
 USB Bridge One (Port 1) is connected to an FTDI pinout compatible programming connector, while USB Bridge Two (Port 2) is connected to the thingSoC standard UART channel.
-The second channel can be used to program a target microprocessor, at the same time the primary channel is used for another purpose (i.e. debug channel, USB to RS-485 bridge, etc).  
+Port1 can be used to program a target microprocessor, at the same time Port2 is used for another purpose (i.e. debug channel, USB to RS-485 bridge, etc).  
 
 It's like having two (2) FTDI adapters in One!
 
