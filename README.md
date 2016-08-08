@@ -1,6 +1,6 @@
 # TSOC_USBUART2
 
-**TSOC_USBUART2** is a two channel USB to Serial(UART) interface, 
+**TSOC_USBUART2** is a two channel USB Bridge device, 
 with status LED's, and a thingSoC Digital Programming Connector (DPC).
 
 The thingSoC Digital Programming Connector (DPC) is backward compatible with 
@@ -19,6 +19,13 @@ and the DTR signal as a programming Reset.
 **thingSoC Reference Designs** are example thingSoC implementations that implement
 various reference and testing circuits for demonstrating the use of the thingSoC libraries.
 These reference designs can serve as starting templates for user designs.
+
+---------------------------------------
+## TSOC_USBUART2 Application as Programming Dongle
+
+[![thingSoC TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2/blob/master/TSOC_USBUART2/images/product/TSOC_USBUART2_prog_ard_pro.png?raw=true) 
+*TSOC_USBUART2 to FTDI Six (6) Pin *](https://github.com/thingSoC/TSOC_USBUART2)
+
 
 ---------------------------------------
 ## TSOC_USBUART2 Model Images
