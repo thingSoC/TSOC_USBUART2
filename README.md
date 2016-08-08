@@ -22,12 +22,6 @@ and the DTR signal as a programming Reset.
 [![thingSoC TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2/blob/master/TSOC_USBUART2/images/product/TSOC_USBUART2.png?raw=true) 
 TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2)
 
-**TSOC_USBUART2** is a Dual USB to UART Base Board **thingSoC Reference Design.** 
-
-**thingSoC Reference Designs** are example thingSoC implementations that implement
-various reference and testing circuits for demonstrating the use of the thingSoC libraries.
-These reference designs can serve as starting templates for user designs.
-
 ---------------------------------------
 ## Use it as a Programming Dongle
 
