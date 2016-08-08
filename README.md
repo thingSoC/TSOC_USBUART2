@@ -35,7 +35,7 @@ Programming a TSOC_RS485 Board](https://github.com/thingSoC/TSOC_USBUART2)
 ---------------------------------------
 ## Use it as a Protocol Adapter
 
-[![thingSoC TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2/blob/master/TSOC_USBUART2/images/product/TSOC_USBUART2.png?raw=true) 
+[![thingSoC TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2/blob/master/TSOC_USBUART2/images/product/TSOC_USBUART2_adapt_wifi.png?raw=true) 
 USB to WiFi Adapter](https://github.com/thingSoC/TSOC_USBUART2)
 
 [![thingSoC TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2/blob/master/TSOC_USBUART2/images/product/TSOC_USBUART2_adapt_rs485.png?raw=true) 
