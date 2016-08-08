@@ -21,10 +21,10 @@ various reference and testing circuits for demonstrating the use of the thingSoC
 These reference designs can serve as starting templates for user designs.
 
 ---------------------------------------
-## TSOC_USBUART2 Application as Programming Dongle
+## Use it as a Programming Dongle
 
 [![thingSoC TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2/blob/master/TSOC_USBUART2/images/product/TSOC_USBUART2_prog_ard_pro.png?raw=true) 
-*TSOC_USBUART2 to FTDI Six (6) Pin *](https://github.com/thingSoC/TSOC_USBUART2)
+TSOC_USBUART2 to FTDI Six (6) Pin](https://github.com/thingSoC/TSOC_USBUART2)
 
 
 ---------------------------------------
