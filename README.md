@@ -1,6 +1,6 @@
 # TSOC_USBUART2
 
-The thingSoC USBUART2 Base board (TSOC_USBUART2) incorporates a Cypress CY7C65215 Dual Channel USB Bridge, that supports UART, I2C, SPI, and JTAG interfaces in a thingSoC format.
+The thingSoC USBUART2 Base board incorporates a Cypress CY7C65215 Dual Channel USB Bridge, that supports UART, I2C, SPI, and JTAG interfaces in a thingSoC format.
 
 
 The thingSoC USBUART2 Base board has two USB bridge channels, which can be programmed to be either UART, I2C, SPI, JTAG, or Capacitance Sensing (buttons/sliders) Human Input devices.
