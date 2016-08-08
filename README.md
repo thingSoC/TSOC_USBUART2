@@ -1,7 +1,13 @@
 # TSOC_USBUART2
 
-**TSOC_USBUART2** is a two channel USB Bridge device, 
-with status LED's, and a thingSoC Digital Programming Connector (DPC).
+The thingSoC USBUART2 Base board (TSOC_USBUART2) incorporates a Cypress CY7C65215 Dual Channel USB Bridge, that supports UART, I2C, SPI, and JTAG interfaces in a thingSoC format.
+
+
+The thingSoC USBUART2 Base board has two USB bridge channels, which can be programmed to be either UART, I2C, SPI, JTAG, or Capacitance Sensing (buttons/sliders) Human Input devices.
+USB Bridge One (Port 1) is connected to an FTDI pinout compatible programming connector, while USB Bridge Two (Port 2) is connected to the thingSoC standard UART channel.
+The second channel can be used to program a target microprocessor, at the same time the primary channel is used for another purpose (i.e. debug channel, USB to RS-485 bridge, etc).  
+
+It's like having two (2) FTDI adapters in One!
 
 The thingSoC Digital Programming Connector (DPC) is backward compatible with 
 the industry standard six (6) pin "FTDI" pinout USB to Serial Adapter pinout.
@@ -62,6 +68,8 @@ Revision 1.0 - New Layout with Dual USB to UART device
 Revision 2.0 - New PCB Outline, update to thingSoC Revision 2.0 
 
 Revision 4.0 - New DPC connector, fix spacing.
+
+Revision 4.1 - Update silkscreen, add more legends
 
 ---------------------------------------
 
