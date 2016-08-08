@@ -26,6 +26,11 @@ These reference designs can serve as starting templates for user designs.
 [![thingSoC TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2/blob/master/TSOC_USBUART2/images/product/TSOC_USBUART2_prog_ard_pro.png?raw=true) 
 TSOC_USBUART2 to FTDI Six (6) Pin : Programming an Arduino Pro](https://github.com/thingSoC/TSOC_USBUART2)
 
+[![thingSoC TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2/blob/master/TSOC_USBUART2/images/product/TSOC_USBUART2_prog_neoled.png?raw=true) 
+Programming a TSOC_NeoLED Board](https://github.com/thingSoC/TSOC_USBUART2)
+
+[![thingSoC TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2/blob/master/TSOC_USBUART2/images/product/TSOC_USBUART2_prog_rs485.png?raw=true) 
+Programming a TSOC_RS485 Board](https://github.com/thingSoC/TSOC_USBUART2)
 
 ---------------------------------------
 ## TSOC_USBUART2 Model Images
