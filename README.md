@@ -12,7 +12,7 @@ and the DTR signal as a programming Reset.
 
 
 [![thingSoC TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2/blob/master/TSOC_USBUART2/images/product/TSOC_USBUART2.png?raw=true) 
-*TSOC_USBUART2*](https://github.com/thingSoC/TSOC_USBUART2)
+TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2)
 
 **TSOC_USBUART2** is a Dual USB to UART Base Board **thingSoC Reference Design.** 
 
@@ -24,14 +24,14 @@ These reference designs can serve as starting templates for user designs.
 ## Use it as a Programming Dongle
 
 [![thingSoC TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2/blob/master/TSOC_USBUART2/images/product/TSOC_USBUART2_prog_ard_pro.png?raw=true) 
-TSOC_USBUART2 to FTDI Six (6) Pin](https://github.com/thingSoC/TSOC_USBUART2)
+TSOC_USBUART2 to FTDI Six (6) Pin : Programming an Arduino Pro](https://github.com/thingSoC/TSOC_USBUART2)
 
 
 ---------------------------------------
 ## TSOC_USBUART2 Model Images
 
 [![thingSoC TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2/blob/master/TSOC_USBUART2/images/TSOC_USBUART2_top.png?raw=true) 
-*TSOC_USBUART2*](https://github.com/thingSoC/TSOC_USBUART2)
+TSOC_USBUART2](https://github.com/thingSoC/TSOC_USBUART2)
 
 ---------------------------------------
 
