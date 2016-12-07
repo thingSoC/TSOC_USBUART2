@@ -1,0 +1,24 @@
+Partlist exported from U:/PatternAgents/eagle/TSOC_Modules/TSOC_USBUART2/TSOC_USBUART2/TSOC_USBUART2.sch at 7/11/2016 12:24:20 PM
+
+Qty Value              Device             Package              Parts                  Description                      Digikey              MPN
+1   CY7C65215-32-PROTO CY7C65215-32-PROTO QFN32-PROTO          U2                     CY7C65215-32QFN
+1   MIC5219 3.3V       V_REG_MIC52193.3V  SOT23-5              U1                     MIC5219
+1   SP1001-02JTG       SP1001-02JTG       SC70-3               ESD                    TVS Diode Array
+1   USB_AB             USB_AB             USB-AB-MICRO-SMD     USB                    USB-AB-MICRO-SMD
+1   M08X02             M08X2              2X8                  J3                     .1" headers, Male, Shrouded, RA  ED10535-ND           On-Shore-Technology-Inc. 302-R161
+2   M12                M12                1X12F                TSOC1, TSOC2           .1" headers, Female              S6100-ND               PPTC121LFBN-RC
+1   M08                M08                1X08F                TSOC3                  .1" headers, Female              S7006-ND               PPTC081LFBN-RC
+1   RED                LED0603            LED-0603             SUSPEND                LED
+1   BLUE               LED0603            LED-0603             TXD                    LED
+1   GRN                LED0603            LED-0603             POWER                  LED
+1   YELLOW             LED0603            LED-0603             RXD                    LED
+1   500mA-PTC          PTCSMD             PTC-1206             FUSE                   Fuse PPTC (0.5A @ 15v)
+3   0.1uF              CAP-0603           EIA-0603             C5, C7, C8             Capacitor SMD
+1   1.0uF              CAP-0603           EIA-0603             C6                     Capacitor SMD
+2   10K                RESISTOR-0603      EIA-0603             R15, R17               Resistor SMD
+4   1K                 RESISTOR-0603      EIA-0603             R4, R10, R11, R12      Resistor SMD
+1   1M                 RESISTOR-0603      EIA-0603             R1                     Resistor SMD
+2   22                 RESISTOR-0603      EIA-0603             R2, R3                 Resistor SMD
+1   22K                RESISTOR-0603      EIA-0603             R13                    Resistor SMD
+2   22uF               CAP-1206           EIA-1206             C2, C3                 Capacitor SMD
+2   470pF              CAP-0603           EIA-0603             C1, C4                 Capacitor SMD
