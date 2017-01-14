@@ -16423,7 +16423,7 @@ Standard 150mA LDO voltage regulator in SOT-23 layout. Micrel part MIC5205. BP (
 <part name="U$3" library="thingSoC" deviceset="TSOC-LOGO" device=""/>
 <part name="U$4" library="thingSoC" deviceset="TSOC-PCB" device="-SINGLE" value="TSOC-PCB-SINGLE"/>
 <part name="U$7" library="thingSoC" deviceset="TSOC-LOGO" device="-SMALL"/>
-<part name="PORT2" library="PatternAgents-ProtoPads" deviceset="M08X2" device=""/>
+<part name="DPC" library="PatternAgents-ProtoPads" deviceset="M08X2" device=""/>
 <part name="FUSE" library="Seeed-Fuse-2016" deviceset="SMD-PPTC-500MA(1206)" device="" value="SMD1206R500SF"/>
 <part name="ESD" library="Seeed-Diode-2016" deviceset="SMD-DIODE-TVS-5V-225MW(SOT-23)" device="" value="5V-225MW"/>
 <part name="J1" library="PatternAgents-ProtoPads" deviceset="JMP-3-1_2" device=""/>
@@ -16550,7 +16550,7 @@ Master</text>
 <instance part="U$3" gate="G$1" x="177.8" y="30.48"/>
 <instance part="U$4" gate="G$1" x="231.14" y="-147.32"/>
 <instance part="U$7" gate="G$1" x="127" y="-45.72"/>
-<instance part="PORT2" gate="G$1" x="134.62" y="-71.12"/>
+<instance part="DPC" gate="G$1" x="134.62" y="-71.12"/>
 <instance part="FUSE" gate="G$1" x="373.38" y="134.62" smashed="yes">
 <attribute name="NAME" x="375.92" y="137.668" size="1.778" layer="95"/>
 <attribute name="VALUE" x="370.078" y="129.54" size="1.778" layer="96"/>
@@ -16673,13 +16673,13 @@ Master</text>
 </segment>
 <segment>
 <label x="116.84" y="-78.74" size="1.27" layer="95" font="vector" ratio="10" rot="MR0" xref="yes"/>
-<pinref part="PORT2" gate="G$1" pin="15"/>
+<pinref part="DPC" gate="G$1" pin="15"/>
 <wire x1="127" y1="-78.74" x2="116.84" y2="-78.74" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <wire x1="142.24" y1="-78.74" x2="152.4" y2="-78.74" width="0.1524" layer="91"/>
 <label x="152.4" y="-78.74" size="1.27" layer="95" font="vector" ratio="10" rot="MR180" xref="yes"/>
-<pinref part="PORT2" gate="G$1" pin="16"/>
+<pinref part="DPC" gate="G$1" pin="16"/>
 </segment>
 </net>
 <net name="!DTR" class="0">
@@ -16764,7 +16764,7 @@ Master</text>
 <segment>
 <wire x1="142.24" y1="-73.66" x2="152.4" y2="-73.66" width="0.1524" layer="91"/>
 <label x="152.4" y="-73.66" size="1.27" layer="95" font="vector" ratio="10" rot="MR180" xref="yes"/>
-<pinref part="PORT2" gate="G$1" pin="12"/>
+<pinref part="DPC" gate="G$1" pin="12"/>
 </segment>
 </net>
 <net name="3V3" class="0">
@@ -16979,7 +16979,7 @@ Master</text>
 <pinref part="U1" gate="G$1" pin="GPIO18"/>
 </segment>
 <segment>
-<pinref part="PORT2" gate="G$1" pin="1"/>
+<pinref part="DPC" gate="G$1" pin="1"/>
 <wire x1="127" y1="-60.96" x2="116.84" y2="-60.96" width="0.1524" layer="91"/>
 <label x="116.84" y="-60.96" size="1.27" layer="95" font="vector" ratio="10" rot="R180" xref="yes"/>
 </segment>
@@ -17106,7 +17106,7 @@ Master</text>
 <segment>
 <wire x1="127" y1="-73.66" x2="116.84" y2="-73.66" width="0.1524" layer="91"/>
 <label x="116.84" y="-73.66" size="1.27" layer="95" font="vector" ratio="10" rot="MR0" xref="yes"/>
-<pinref part="PORT2" gate="G$1" pin="11"/>
+<pinref part="DPC" gate="G$1" pin="11"/>
 </segment>
 </net>
 <net name="TXD1" class="0">
@@ -17118,7 +17118,7 @@ Master</text>
 <segment>
 <wire x1="142.24" y1="-71.12" x2="152.4" y2="-71.12" width="0.1524" layer="91"/>
 <label x="152.4" y="-71.12" size="1.27" layer="95" font="vector" ratio="10" rot="MR180" xref="yes"/>
-<pinref part="PORT2" gate="G$1" pin="10"/>
+<pinref part="DPC" gate="G$1" pin="10"/>
 </segment>
 </net>
 <net name="RXD1" class="0">
@@ -17130,7 +17130,7 @@ Master</text>
 <segment>
 <wire x1="142.24" y1="-68.58" x2="152.4" y2="-68.58" width="0.1524" layer="91"/>
 <label x="152.4" y="-68.58" size="1.27" layer="95" font="vector" ratio="10" rot="MR180" xref="yes"/>
-<pinref part="PORT2" gate="G$1" pin="8"/>
+<pinref part="DPC" gate="G$1" pin="8"/>
 </segment>
 </net>
 <net name="!CTS1" class="0">
@@ -17142,7 +17142,7 @@ Master</text>
 <segment>
 <wire x1="142.24" y1="-76.2" x2="152.4" y2="-76.2" width="0.1524" layer="91"/>
 <label x="152.4" y="-76.2" size="1.27" layer="95" font="vector" ratio="10" rot="MR180" xref="yes"/>
-<pinref part="PORT2" gate="G$1" pin="14"/>
+<pinref part="DPC" gate="G$1" pin="14"/>
 </segment>
 </net>
 <net name="!RTS1" class="0">
@@ -17154,7 +17154,7 @@ Master</text>
 <segment>
 <wire x1="142.24" y1="-63.5" x2="152.4" y2="-63.5" width="0.1524" layer="91"/>
 <label x="152.4" y="-63.5" size="1.27" layer="95" font="vector" ratio="10" rot="MR180" xref="yes"/>
-<pinref part="PORT2" gate="G$1" pin="4"/>
+<pinref part="DPC" gate="G$1" pin="4"/>
 </segment>
 </net>
 <net name="!DTR1" class="0">
@@ -17166,7 +17166,7 @@ Master</text>
 <segment>
 <wire x1="142.24" y1="-66.04" x2="152.4" y2="-66.04" width="0.1524" layer="91"/>
 <label x="152.4" y="-66.04" size="1.27" layer="95" font="vector" ratio="10" rot="MR180" xref="yes"/>
-<pinref part="PORT2" gate="G$1" pin="6"/>
+<pinref part="DPC" gate="G$1" pin="6"/>
 </segment>
 </net>
 <net name="!DSR1" class="0">
@@ -17178,7 +17178,7 @@ Master</text>
 <segment>
 <wire x1="142.24" y1="-60.96" x2="152.4" y2="-60.96" width="0.1524" layer="91"/>
 <label x="152.4" y="-60.96" size="1.27" layer="95" font="vector" ratio="10" rot="MR180" xref="yes"/>
-<pinref part="PORT2" gate="G$1" pin="2"/>
+<pinref part="DPC" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="!TX_LED" class="0">

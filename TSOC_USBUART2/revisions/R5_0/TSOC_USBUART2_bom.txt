@@ -1,0 +1,31 @@
+Partlist exported from U:/PatternAgents/eagle/TSOC_Modules/TSOC_USBUART2/TSOC_USBUART2/revisions/R5_0/TSOC_USBUART2.sch at 12/18/2016 3:53:13 PM
+
+Part    Value              Device                         Package          Description                                                                                                   
+C1      470pF              CAP-0603                       EIA-0603         Ceramic Capacitor SMD                                                                                         
+C2      1.0uF              CAP-0603                       EIA-0603         Ceramic Capacitor SMD                                                                                         
+C3      0.1uF              CAP-0603                       EIA-0603         Ceramic Capacitor SMD                                                                                         
+C4      470pF              CAP-0603                       EIA-0603         Ceramic Capacitor SMD                                                                                         
+C5      0.1uF              CAP-0603                       EIA-0603         Ceramic Capacitor SMD                                                                                         
+C6      0.1uF              CAP-0603                       EIA-0603         Ceramic Capacitor SMD                                                                                         
+C7      22uF               CAP-1206                       EIA-1206         Ceramic Capacitor SMD                                                                                         
+C8      22uF               CAP-1206                       EIA-1206         Ceramic Capacitor SMD                                                                                         
+D1      5V-225MW           SMD-DIODE-TVS-5V-225MW(SOT-23) SOT-23           304050003                                                                                                     
+DPC                        M08X2                          2X8              .1" headers, two rows of 8 each                                                                               
+FUSE    500mA-PTC          PTCSMD                         PTC-1206         Resettable Fuse PTC                                                                                           
+PORT1   YELLOW             LED0603                        LED-0603         LEDs                                                                                                          
+PORT2   BLUE               LED0603                        LED-0603         LEDs                                                                                                          
+POWER   GRN                LED0603                        LED-0603         LEDs                                                                                                          
+R1      1K                 RESISTOR-0603                  EIA-0603                                                                                                                       
+R2      1K                 RESISTOR-0603                  EIA-0603                                                                                                                       
+R3      1K                 RESISTOR-0603                  EIA-0603                                                                                                                       
+R4      1K                 RESISTOR-0603                  EIA-0603                                                                                                                       
+R5      1M                 RESISTOR-0603                  EIA-0603                                                                                                                       
+R6      22                 RESISTOR-0603                  EIA-0603                                                                                                                       
+R7      22                 RESISTOR-0603                  EIA-0603                                                                                                                       
+R8      10K                RESISTOR-0603                  EIA-0603                                                                                                                       
+R9      10K                RESISTOR-0603                  EIA-0603                                                                                                                       
+R10     22K                RESISTOR-0603                  EIA-0603                                                                                                                       
+SUSPEND RED                LED0603                        LED-0603         LEDs                                                                                                          
+U1      CY7C65215-32-PROTO CY7C65215-32-PROTO             QFN32-PROTO      Cypress EZ-USB ® CY7C65215-32QFN                                       
+U2      MIC5219 3.3V       V_REG_MIC52193.3V              SOT23-5          V_REG MIC5219                                                                                                 
+USB     USB_AB             USB_AB                         USB-AB-MICRO-SMD USB
